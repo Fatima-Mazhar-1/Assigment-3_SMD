@@ -17,17 +17,6 @@
             android:layout_width="match_parent"
             android:layout_height="734dp">
 
-            <ImageView
-                android:id="@+id/sq2"
-                android:layout_width="412dp"
-                android:layout_height="197dp"
-                android:layout_marginTop="4dp"
-                android:scaleType="fitCenter"
-                android:src="@drawable/bluesimplesquare"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="1.0"
-                app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
 
 
             <ImageButton
